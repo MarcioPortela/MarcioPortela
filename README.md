@@ -1,11 +1,15 @@
 ### Hello! I'm Márcio Portela 👋😊🚀
 
-- 💻 I work as Software Developer
+- 💻 I work as a Backend Developer
 - ✍️ I'm currently working with .NET Core
+- 🔧 I have some knowledge in Java, JavaScript, HTML, CSS and SQL Databases as well
+- 📒 I'm also studying new programming languages and frameworks as Angular and Node.js
+- 💪 Besides programming I also like going to the gym
+- 🎸 Listening to music, especially Rock
+- 🎮 And playing video-game, here's my Xbox tag MarcioP#8577
   
   <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioPortela&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioPortela&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
