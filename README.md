@@ -6,7 +6,7 @@
 </div>
 <div align="left">
   <ul>
-    <li>💻 I work as a Backend Developer</li>
+    <li>💻 I work as a Backend/Fulstack Developer</li>
     <li>✍️ I'm currently working with .NET Core</li>
     <li>🔧 I have some knowledge in Java, JavaScript, HTML, CSS and SQL Databases as well</li>
     <li>📒 I'm also studying new programming languages and frameworks as Angular and Node.js</li>
