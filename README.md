@@ -6,11 +6,11 @@
 </div>
 <div align="left">
   <ul>
-    <li>💻 I work as a Backend/Fulstack Developer</li>
+    <li>💻 I work as a Backend/Fullstack Developer</li>
     <li>✍️ I'm currently working with .NET Core</li>
-    <li>🔧 I have some knowledge in Java, JavaScript, HTML, CSS and SQL Databases as well</li>
+    <li>🔧 I have some knowledge in JavaScript, HTML, CSS and SQL Databases as well</li>
     <li>📒 I'm also studying new programming languages and frameworks as Angular and Node.js</li>
-    <li>🎸 Besides programming I also like going listening to music, especially Rock</li>
+    <li>🎸 Besides programming I also like listening to music, especially Rock</li>
     <li>🎮 And playing video-game, here's my Xbox tag MarcioP#8577</li>
   </ul>
 </div>
